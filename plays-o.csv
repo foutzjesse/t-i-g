@@ -12,6 +12,8 @@ Run,Outside Zone
 Run,Power
 Run,Counter
 Run,Duo
+Run,Triple Option
+Run,Double Option
 RPO,Bubble
 RPO,Glance
 Pass,Verticals
