@@ -1,0 +1,38 @@
+Type,Play
+Run,Dive
+Run,Iso
+Run,Off Tackle
+Run,Toss
+Run,Sweep
+Run,Trap
+Run,Counter
+Run,Draw
+Run,Bootleg
+Run,QB Sneak
+Run,End-Around
+Run,Reverse
+Run,Option
+Pass,Drag
+Pass,Flat
+Pass,Slant
+Pass,Out
+Pass,Hook
+Pass,Deep Out
+Pass,Deep In
+Pass,Flag
+Pass,Post
+Pass,Go
+Trick,Statue of Liberty
+Trick,Fumblerooski
+Trick,Bouncerooski
+Trick,Fake Punt
+Trick,Fake FG
+Trick,Onside Kick
+Trick,Double Pass
+Trick,HB Pass
+Trick,WR Pass
+Trick,Flea Flicker
+Trick,Reverse Flea Flicker
+Trick,Throwback Flea Flicker
+Trick,Dual QB
+Trick,Hook & Ladder
