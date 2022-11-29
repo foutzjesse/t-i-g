@@ -1,27 +1,36 @@
-Type,Play
+type,play
 Run,Dive
 Run,Iso
-Run,Off Tackle
-Run,Toss
-Run,Sweep
+Run,Off-Tackle
+Run,Dart
 Run,Trap
-Run,Counter
+Run,Jet Sweep
+Run,Buck Sweep
 Run,Draw
-Run,Bootleg
-Run,QB Sneak
-Run,End-Around
-Run,Reverse
-Run,Option
-Pass,Drag
-Pass,Flat
-Pass,Slant
-Pass,Out
-Pass,Hook
-Pass,Deep Out
-Pass,Deep In
-Pass,Flag
-Pass,Post
-Pass,Go
+Run,Inside Zone
+Run,Outside Zone
+Run,Power
+Run,Counter
+Run,Duo
+RPO,Bubble
+RPO,Glance
+Pass,Verticals
+Pass,Snag
+Pass,Hank
+Pass,Lion
+Pass,Dragon
+Pass,Disk
+Pass,Bow
+Pass,Yankee
+Pass,Mesh
+Pass,Smash
+Pass,Mills
+Pass,Drive
+Pass,Dagger
+Pass,Sail
+Pass,Stick
+Pass,Y-Cross
+Pass,Hail Mary
 Trick,Statue of Liberty
 Trick,Fumblerooski
 Trick,Bouncerooski
