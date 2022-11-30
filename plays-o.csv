@@ -1,50 +1,50 @@
-type,play
-Run,Dive
-Run,Iso
-Run,Off-Tackle
-Run,Dart
-Run,Trap
-Run,Jet Sweep
-Run,Buck Sweep
-Run,Draw
-Run,Inside Zone
-Run,Outside Zone
-Run,Power
-Run,Counter
-Run,Duo
-Run,Triple Option
-Run,Double Option
-Run,QB Sneak
-RPO,Bubble
-RPO,Glance
-Pass,Verticals
-Pass,Snag
-Pass,Hank
-Pass,Lion
-Pass,Dragon
-Pass,Disk
-Pass,Bow
-Pass,Yankee
-Pass,Mesh
-Pass,Smash
-Pass,Mills
-Pass,Drive
-Pass,Dagger
-Pass,Sail
-Pass,Stick
-Pass,Y-Cross
-Pass,Hail Mary
-Trick,Statue of Liberty
-Trick,Fumblerooski
-Trick,Bouncerooski
-Trick,Fake Punt
-Trick,Fake FG
-Trick,Onside Kick
-Trick,Double Pass
-Trick,HB Pass
-Trick,WR Pass
-Trick,Flea Flicker
-Trick,Reverse Flea Flicker
-Trick,Throwback Flea Flicker
-Trick,Dual QB
-Trick,Hook & Ladder
+id,type,play
+1,Run,Dive
+2,Run,Iso
+3,Run,Off-Tackle
+4,Run,Dart
+5,Run,Trap
+6,Run,Jet Sweep
+7,Run,Buck Sweep
+8,Run,Draw
+9,Run,Inside Zone
+10,Run,Outside Zone
+11,Run,Power
+12,Run,Counter
+13,Run,Duo
+14,Run,Triple Option
+15,Run,Double Option
+16,Run,QB Sneak
+17,RPO,Bubble
+18,RPO,Glance
+19,Pass,Verticals
+20,Pass,Snag
+21,Pass,Hank
+22,Pass,Lion
+23,Pass,Dragon
+24,Pass,Disk
+25,Pass,Bow
+26,Pass,Yankee
+27,Pass,Mesh
+28,Pass,Smash
+29,Pass,Mills
+30,Pass,Drive
+31,Pass,Dagger
+32,Pass,Sail
+33,Pass,Stick
+34,Pass,Y-Cross
+35,Pass,Hail Mary
+36,Trick,Statue of Liberty
+37,Trick,Fumblerooski
+38,Trick,Bouncerooski
+39,Trick,Fake Punt
+40,Trick,Fake FG
+41,Trick,Onside Kick
+42,Trick,Double Pass
+43,Trick,HB Pass
+44,Trick,WR Pass
+45,Trick,Flea Flicker
+46,Trick,Reverse Flea Flicker
+47,Trick,Throwback Flea Flicker
+48,Trick,Dual QB
+49,Trick,Hook & Ladder
