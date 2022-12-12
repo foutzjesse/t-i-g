@@ -9,12 +9,13 @@ class Player {
 }
 
 class OPlay {
-  constructor(quarter, lead, clock, down, ballon, togo, formation, play, gain, result, carrier) {
+  constructor(quarter, lead, clockmin, clocksec, down, ballon, togo, formation, play, gain, result, carrier) {
     this.quarter = quarter;
     this.lead = lead; //difference between scores. can be negative.
-    this.clock = clock;
+    this.clockmin = clockmin;
+    this.clocksec = clocksec;
     this.down = down;
-    this.ballon = ballon; //distinguish between own and opponent's
+    this.ballon = ballon; //yards to GL
     this.togo = togo;
     this.formation = formation;
     this.play = play;

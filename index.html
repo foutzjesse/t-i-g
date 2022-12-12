@@ -8,7 +8,13 @@
 <body>
 
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
   <script>
+    fetch("./employees.json")
+    .then(response => {
+    return response.json();
+    })
+    .then(data => console.log(data));
   </script>
 </body>
 </html>
